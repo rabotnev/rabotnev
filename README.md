@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Daniil, a Data Science & Finance student based in Austria.
+
 <!--
 **rabotnev/rabotnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
