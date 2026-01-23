@@ -2,7 +2,7 @@
 
 I'm **Daniil**, a Finance & Data Science student based in Austria.
 
-I mostly work on **Data Processing** using **Python (Pandas, NumPy)** to clean and structure complex datasets.
+I mostly work on **Data Processing** using **Python (Pandas, NumPy, matplotlib)** to clean and structure complex datasets.
 
 I build **Machine Learning** models with **R Programming Language**, and **Python (scikit-learn and PyTorch)**.
 
