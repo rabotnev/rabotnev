@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Daniil**, a Finance & Data Science student based in Austria.
+I'm **Daniil**, a Data Science, AI, and Finance student based in Austria.
 
 I mostly work on **Data Processing** using **Python (Pandas, NumPy, matplotlib)** to clean and structure complex datasets.
 
