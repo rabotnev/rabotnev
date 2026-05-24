@@ -14,7 +14,7 @@ I also use **Bloomberg Terminal** & **LSEG Workspace** for market research, **Po
 
 ### Tools & Tech
 
-* Python (pandas, NumPy, matplotlib, seaborn, scikit-learn, PyShark, PyTorch), R, SQL
+* Python (pandas, NumPy, matplotlib, seaborn, scikit-learn, PySpark, PyTorch), R, SQL
 * Bloomberg Market Concepts, LSEG Workspace Certification
 * MS Excel, MS PowerPoint, MS Power BI
 * Miro, Draw.io, Canva, LaTeX
