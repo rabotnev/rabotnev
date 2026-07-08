@@ -4,7 +4,7 @@ I'm **Daniil**, a Data Science, AI, and Finance student based in Austria.\
 Mostly work on **Data Processing** using **Python (Pandas, NumPy, matplotlib)** to clean and structure complex datasets.\
 I Build **Machine Learning** models with **R Programming Language**, and **Python (scikit-learn and PyTorch)**.\
 Specialize in **Big Data Engineering** — managing real-time data streams with **Apache Spark** and **Apache Kafka**.\
-I Use **Bloomberg Terminal** & **LSEG Workspace** for market research, **Power BI** to visualize insights, and **LaTeX** for drafting professional academic papers.
+I use **Bloomberg Terminal** & **LSEG Workspace** for market research, **Power BI** to visualize insights, and **LaTeX** for drafting professional academic papers.
 
 ---
 
