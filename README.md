@@ -7,7 +7,6 @@ Specialize in **Big Data Engineering** — managing real-time data streams with 
 I use **Bloomberg Terminal** & **LSEG Workspace** for market research, **Power BI** to visualize insights, and **LaTeX** for drafting professional academic papers.
 
 ---
-
 ### Technical Skills & Tools
 
 - Languages: Python, R, SQL, Swift, TypeScript, JavaScript
@@ -17,9 +16,7 @@ I use **Bloomberg Terminal** & **LSEG Workspace** for market research, **Power B
 - Cloud & DevOps: Docker, Git, GitHub, Google Cloud Platform, Google AI Studio
 - BI & Finance: Bloomberg Terminal, LSEG Workspace, MS Excel, MS Power BI, MS PowerPoint
 - Docs & Design: LaTeX, Miro, Canva
-
 ---
-
 ### About Me
 
 * Driven by innovation and competition, huge Formula One & Tennis fan
