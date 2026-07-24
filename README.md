@@ -9,7 +9,6 @@ I'm **Daniil**, a Data Science, AI, and Finance student based in Austria.
 - 🔨 On the side I'm learning iOS with Swift and SwiftUI, and building small things for the web with React, TypeScript, and Node.js.
 - 🏎️ Driven by innovation and competition — a huge Formula 1 and Tennis fan.
 
----
 ### Technical Skills & Tools
 
 - Languages: Python, R, SQL, Swift, TypeScript, JavaScript
@@ -19,3 +18,5 @@ I'm **Daniil**, a Data Science, AI, and Finance student based in Austria.
 - Cloud & DevOps: Docker, Git, GitHub, Google Cloud Platform, Google AI Studio
 - BI & Finance: Bloomberg Terminal, LSEG Workspace, MS Excel, MS Power BI, MS PowerPoint
 - Docs & Design: LaTeX, Miro, Canva
+
+[![Connect](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabotnev/)
