@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 
 I'm **Daniil**, a Data Science, AI, and Finance student based in Austria.
 
@@ -19,4 +19,4 @@ I'm **Daniil**, a Data Science, AI, and Finance student based in Austria.
 - BI & Finance: Bloomberg Terminal, LSEG Workspace, MS Excel, MS Power BI, MS PowerPoint
 - Docs & Design: LaTeX, Miro, Canva
 
-[![Connect](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabotnev/)
+[<img src="linkedin-connect.svg" alt="Connect on LinkedIn" height="40">](https://www.linkedin.com/in/rabotnev/)
