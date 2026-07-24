@@ -8,12 +8,15 @@ I use **Bloomberg Terminal** & **LSEG Workspace** for market research, **Power B
 
 ---
 
-### Tools & Tech
+### Technical Skills & Tools
 
-* Python (pandas, NumPy, matplotlib, seaborn, scikit-learn, PySpark, PyTorch), R, SQL
-* Bloomberg Market Concepts, LSEG Workspace Certification
-* MS Excel, MS PowerPoint, MS Power BI
-* Miro, Draw.io, Canva, LaTeX
+- Languages: Python, R, SQL, Swift, TypeScript, JavaScript
+- Data Science & ML: pandas, NumPy, matplotlib, seaborn, scikit-learn, PyTorch
+- Big Data & Streaming: Apache Spark, PySpark, Apache Kafka
+- Web & Mobile: SwiftUI, React, Node.js
+- Cloud & DevOps: Docker, Git, GitHub, Google Cloud Platform, Google AI Studio
+- BI & Finance: Bloomberg Terminal, LSEG Workspace, MS Excel, MS Power BI, MS PowerPoint
+- Docs & Design: LaTeX, Miro, Canva
 
 ---
 
@@ -21,19 +24,4 @@ I use **Bloomberg Terminal** & **LSEG Workspace** for market research, **Power B
 
 * Driven by innovation and competition, huge Formula One & Tennis fan
 * I appreciate good design — from architecture to fashion
-* I take a thorough approach to every project. I love precision and always rely on a verified methods.
-
-<!--
-**rabotnev/rabotnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I take a thorough approach to every project and love precision
