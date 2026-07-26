@@ -11,10 +11,10 @@ I'm a Data Science, AI, and Finance student based in Austria.
 
 ### Technical Skills & Tools
 
-- Languages: Python, R, SQL, Swift, TypeScript, JavaScript
+- Languages: Python, R, SQL (PostgreSQL), Swift, TypeScript, JavaScript
 - Data Science & ML: pandas, NumPy, matplotlib, seaborn, scikit-learn, PyTorch
 - Big Data & Streaming: Apache Spark, PySpark, Apache Kafka
-- Web & Mobile: SwiftUI, React, Node.js
+- Web & Mobile: Flask, SwiftUI, React, Node.js
 - Cloud & DevOps: Docker, Git, GitHub, Google Cloud Platform, Google AI Studio
 - BI & Finance: Bloomberg Terminal, LSEG Workspace, MS Excel, MS Power BI, MS PowerPoint
 - Docs & Design: LaTeX, Miro, Canva
